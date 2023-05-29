@@ -10,5 +10,5 @@ sys
 colorama
 concurrent.futures
 colorama
-fake_useragent
+fake-useragent
 bs4
