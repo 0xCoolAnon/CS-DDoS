@@ -1,14 +1,5 @@
-socket
 socks
-threading
-random
-re
 requests
-urllib.request
-os
-sys
-colorama
-concurrent.futures
 colorama
 fake-useragent
 bs4
